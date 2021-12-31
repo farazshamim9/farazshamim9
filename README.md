@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faraz,
 - 👀 I’m interested in blockchain, AI and machine learning
-- 🌱 I’m currently learning development on blockchain
+- 🌱 I’m currently working on IoT Edge devices and ML
 - 📫 Reach me at farazshamim9@gmail.com
 
 <!---
